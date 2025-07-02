@@ -48,25 +48,6 @@ Backend API: `http://localhost:3000/`
 
 ---
 
-## 🌐 Live Demo
-
-👉 [Deployed Frontend Link](https://your-frontend-url.vercel.app)
-👉 [Deployed Backend Link](https://your-backend-url.onrender.com)
-
----
-
-## 📌 Architecture Diagram
-
-![Architecture Diagram](./architecture.png)
-
----
-
-## 🎥 Loom Video (Demo + Explanation)
-
-👉 [Watch the demo video](https://www.loom.com/share/your-loom-video-id)
-
----
-
 ## 💡 Assumptions
 
 * PostgreSQL is used as the database.
